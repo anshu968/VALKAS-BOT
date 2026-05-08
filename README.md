@@ -7,8 +7,8 @@ A fully professional Discord VPS control bot — everything named **Valakas**.
 ## ⚡ Quick Install (VPS)
 
 ```bash
-git clone https://github.com/YOURNAME/valakas
-cd valakas
+git clone https://github.com/anshu968/VALKAS-BOT/tree/main
+cd VALKAS-BOT
 chmod +x install.valakas
 bash install.valakas
 ```
@@ -78,4 +78,4 @@ docker run -d \
 
 ---
 
-**Made with 🔥 — Valakas VPS Bot**
+**Made by - RAJVEER**
