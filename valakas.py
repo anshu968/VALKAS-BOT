@@ -11,7 +11,7 @@ import asyncio
 
 # ============================================================
 #   VALAKAS BOT - VPS CONTROL BOT
-#   Made by: You | Bot: Valakas
+#   Made by: RAJVEER | Bot: Valakas
 # ============================================================
 
 TOKEN = "YOUR_BOT_TOKEN_HERE"
